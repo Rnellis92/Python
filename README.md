@@ -21,16 +21,16 @@ This project provided a foundation in Python that can be applied to data analysi
 
 ![image_modify](https://github.com/Rnellis92/Python/blob/main/How%20to%20make%20a%20Panda%20data%20table.jpg?raw=true) 
 
-How to make a basic Pandas data frame.
+^ How to make a basic Pandas data frame.
 
 
 
 ![image_modify](https://github.com/Rnellis92/Python/blob/main/Pandas%20-%20how%20to%20make%20a%20box%20plot%20.jpg?raw=true) 
 
-How to make a box plot with data using Pandas.
+^ How to make a box plot with data using Pandas.
 
 
 
 ![image_modify](https://github.com/Rnellis92/Python/blob/main/Scatter%20plot%20&%20colour%20creation%20example.jpg?raw=true)
 
-How to make a scatter plot and customise the colours.
+^ How to make a scatter plot and customise the colours.
